@@ -5,11 +5,6 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiinde oluşturd
 Öncelikle projeyi clonelayınız.
 ```git clone https://github.com/TurkCoderv1/kodluyoruzilkrepo```
 ## Usage
-<<<<<<< HEAD
-projeyi cloneladıktan sonra vs code  programında açın.
-=======
-projeyi cloneladıktan sonra vs code  programında açınız.
->>>>>>> 3b690e7ff0959fd3d7e2acb9364601ab27ca0165
 
 Linux için:
 ```
